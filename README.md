@@ -7,3 +7,6 @@ for graph spectral analysis. The main files to look into will be
 GraphProcess.py and GraphConstruct.py. These two files in conjunction
 constructs the graphs, uses the Gower.py file for gower distance while
 building edges, and analyzes the data.
+
+The viz directory contains all our scripts for generating the charts
+in the paper.
